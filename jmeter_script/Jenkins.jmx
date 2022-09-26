@@ -87,7 +87,7 @@
           </collectionProp>
         </Arguments>
         <hashTree/>
-        <ConfigTestElement guiclass="HttpDefaultsGui" testclass="ConfigTestElement" testname="生产环境" enabled="true">
+        <ConfigTestElement guiclass="HttpDefaultsGui" testclass="ConfigTestElement" testname="生产环境" enabled="false">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="用户定义的变量" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
